@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Ao executar seu projeto de software, você precisa revisá-lo periodicamente, se isso não for feito, consequentemente o programador enfrentará desafios inesperados, falhas no processo de trabalho que se tornarão aparentes à medida que o projeto se desenvolve. Os requisitos devem ser documentados, acionáveis, mensuráveis, testáveis, rastreáveis, relacionados às necessidades ou oportunidades de negócios identificadas e definidos com um nível de detalhe suficiente para o design do sistema. É por isso que qualquer projeto a ser programado precisa de análises de projeto para lidar com isso e avaliar os resultados e a rentabilidade após a conclusão do trabalho, proporcionando alinhamento de expectativas e possibilidades. Ao mesmo tempo que facilita a localizar mudanças necessárias no progama.
+Ao executar seu projeto de software, você precisa revisá-lo periodicamente, se isso não for feito, consequentemente o programador enfrentará desafios inesperados, falhas no processo de trabalho que se tornarão aparentes à medida que o projeto se desenvolve. Os requisitos devem ser documentados, acionáveis, mensuráveis, testáveis, rastreáveis, relacionados às necessidades ou oportunidades de negócios identificadas e definidos com um nível de detalhe suficiente para o design do sistema. É por isso que qualquer projeto a ser programado precisa de análises de projeto para lidar com isso e avaliar os resultados e a rentabilidade após a conclusão do trabalho, proporcionando alinhamento de expectativas e possibilidades. Ao mesmo tempo que facilita a localizar mudanças necessárias no programa.
 
 ## Definições
 
@@ -11,7 +11,7 @@ A análise de requisitos contem três sequências de atividades:
 
 Levantamento de requisitos -> (por exemplo, o termo de abertura ou definição do projeto), documentação do processo de negócios e entrevistas com as partes interessadas. Às vezes, isso também é chamado de coleta de requisitos ou descoberta de requisitos.
 
-Requisitos de registro -> Os requisitos podem ser documentados de várias formas, geralmente incluindo uma lista resumida e podem incluir documentos em linguagem natural, casos de uso , histórias de usuários , especificações de processo e uma variedade de modelos, incluindo modelos de dados.
+Requisitos de registro -> Os requisitos podem ser documentados de várias formas, geralmente incluindo uma lista resumida e podem incluir documentos em linguagem natural, casos de uso, histórias de usuários, especificações de processo e uma variedade de modelos, incluindo modelos de dados.
 
 Analisar requisitos -> determinar se os requisitos declarados são claros, completos, não duplicados, concisos, válidos, consistentes e inequívocos e resolver quaisquer conflitos aparentes.
 
@@ -31,7 +31,7 @@ Requisitos de negócio -> Declarações de metas de nível de negócios, sem ref
 
 Requisitos do cliente -> Declarações de fatos e suposições que definem as expectativas do sistema em termos de objetivos de missão, ambiente, restrições e medidas de eficácia e adequação. 
 
-Requisitos de arquitetura -> Os requisitos de arquitetura definem o que deve ser feito identificando a arquitetura de sistemas necessária de um sistema .
+Requisitos de arquitetura -> Os requisitos de arquitetura definem o que deve ser feito identificando a arquitetura de sistemas necessária de um sistema.
 
 Requisitos estruturais -> Os requisitos estruturais explicam o que deve ser feito identificando a estrutura necessária de um sistema.
 
@@ -52,7 +52,7 @@ Requisitos alocados -> Um requisito estabelecido pela divisão ou alocação de 
 
 # Caso de Uso
 
-Caso de uso é uma estrutura para documentar os requisitos funcionais de um sistema, geralmente envolvendo software, seja novo ou alterado. Cada caso de uso fornece um conjunto de cenários que transmitem como o sistema deve interagir com um usuário humano ou outro sistema para atingir uma meta de negócios específica. Os casos de uso geralmente são escritos em coautoria por engenheiros de requisitos e partes interessadas. Um caso de uso contém uma descrição textual da maneira como se espera que o usuário use o software ou sistema. Os casos de uso não devem descrever o funcionamento interno do sistema, nem devem explicar como o sistema será implementado. Em vez disso, eles mostram as etapas necessárias para executar uma tarefa sem suposições contínuas.
+Caso de uso é uma estrutura para documentar os requisitos funcionais de um sistema, geralmente envolvendo software, seja novo ou alterado. Cada caso de uso fornece um conjunto de cenários que transmitem como o sistema deve interagir com um usuário humano ou outro sistema para atingir uma meta de negócios específica. Os casos de uso são geralmente escritos em coautoria por engenheiros de requisitos e partes interessadas. Um caso de uso contém uma descrição textual da maneira como se espera que o usuário use o software ou sistema. Os casos de uso não devem descrever o funcionamento interno do sistema, nem devem explicar como o sistema será implementado. Em vez disso, eles mostram as etapas necessárias para executar uma tarefa sem suposições contínuas.
 
 A identificação do projeto é o primeiro passo e uma etapa importante na formulação do projeto. Um projeto é concebido para atender às necessidades do mercado, desenvolver recursos naturais, criar riqueza, etc. Geralmente, os projetos de desenvolvimento vêm do planejamento do estado. Os projetos industriais decorrem da identificação de perspectivas de negócios e potencial de ganhos. Os itens são trazidos para atingir determinados objetivos. Pode haver vários projetos alternativos que podem atender a esses objetivos. É necessário mencionar todas as outras opções consideradas e justificar o projeto específico proposto para consideração.
 A formulação do projeto inclui as seguintes etapas: Estudo de Oportunidade/Estudo de Apoio, Identificação do Produto/Serviço, Estudo de Pré-Viabilidade, Estudo de Viabilidade, Avaliação do Projeto, Relatório Detalhado do Projeto.
